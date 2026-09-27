@@ -1,0 +1,16 @@
+# Visual Studio Build and Temp Files
+.vs/
+*.obj
+*.tlog
+*.log
+*.db
+*.ilk
+*.pdb
+*.exe
+*.recipe
+*.idb
+*.ipch
+Debug/
+Release/
+x64/
+x86/
